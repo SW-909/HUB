@@ -1945,8 +1945,8 @@ vb:[-2,-2,-1,-1]
 Slide390:{
 lb:'',
 id:390,
-from:1261,
-to:1350,
+from:1,
+to:90,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2004,11 +2004,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-527:{
+487:{
 ts:''
 }
 ,
-487:{
+527:{
 ts:''
 }
 
@@ -2040,8 +2040,8 @@ visible:'1'
 si1024:{
 name:'Character_Block_1',
 type:1268,
-from:1351,
-to:1440,
+from:91,
+to:180,
 rp:0,
 rpa:0,
 mdi:'si1024c',
@@ -2212,8 +2212,8 @@ vb:[-1,-1,1,1]
 si1032:{
 name:'character-image_1',
 type:1268,
-from:1351,
-to:1440,
+from:91,
+to:180,
 rp:0,
 rpa:0,
 mdi:'si1032c',
@@ -2380,8 +2380,8 @@ vb:[-1,-1,1,1]
 si1042:{
 name:'Screenshot_2025-05-14_at_11_29_12 AM',
 type:15,
-from:1351,
-to:1440,
+from:91,
+to:180,
 rp:0,
 rpa:0,
 mdi:'si1042c',
@@ -2719,7 +2719,7 @@ effectiveVi:1,
 JSONEffectData:false,
 bc:'#ffffff',
 fe:true,
-fca:0.6,
+fca:0.8,
 fa:100,
 iso:true,
 sde:false,
@@ -4808,8 +4808,8 @@ vb:[-2,-2,-1,-1]
 Slide404:{
 lb:'Home',
 id:404,
-from:1351,
-to:1440,
+from:91,
+to:180,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -4884,11 +4884,11 @@ iid:[2124]
 ,
 qs:'',
 iph:{
-2739:{
+2746:{
 ts:''
 }
 ,
-2746:{
+2739:{
 ts:''
 }
 
@@ -18731,7 +18731,7 @@ prjBgColor:'#ffffff',
 pkt:0,
 htmlBgColor:'#f5f4f1',
 shc:false,
-pN:'design_test.cpt'
+pN:'HUB.cpt'
 },
 projectThemeData:{
 customisations:'{"user_renames":{}}',
@@ -18910,15 +18910,6 @@ ipiv:{
 
 }
 ,{
-ip:'dr/03152.jpg',
-ipiv:{
-430:1,
-768:1,
-1366:1
-}
-
-}
-,{
 ip:'dr/03161.png',
 ipiv:{
 430:1,
@@ -19046,7 +19037,7 @@ resources:['dr/01277.svg','dr/01280.svg','dr/02748.svg','dr/03161.png','dr/0432.
 ,{
 slideID:1,
 ResourceList:{
-resources:['dr/01768.svg','dr/01827.svg','dr/01886.svg','dr/02362.svg','dr/0627.png','dr/0670.svg','dr/0697.png','dr/0764.png','dr/0831.png','dr/0898.png','dr/0965.png']
+resources:['dr/0627.png','dr/0670.svg','dr/0697.png','dr/0764.png','dr/0831.png','dr/0898.png','dr/0965.png']
 }
 
 }
